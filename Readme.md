@@ -1,0 +1,1 @@
+Olá, esse é o meu primeiro projeto da Digital Inovation One no bootcamp de HTML Web Developer. A proposta foi de recriar a página do Instagram do zero e aprender a usar a metodologia de posicionamento Flexbox do CSS.
